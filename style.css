@@ -1,0 +1,23 @@
+body 
+{
+   background: #d9514eff; 
+   font-family: 'Caveat', cursive;
+}
+
+.case_study
+{
+   background: #dedede;
+   width: 100%;
+}
+
+.case_study img 
+{
+ width: 300px;
+ height: 100px;
+}
+
+.test1
+{
+   font-size: 25px;
+   float: left;
+}
