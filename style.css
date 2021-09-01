@@ -16,8 +16,15 @@ body
  height: 100px;
 }
 
-.test1
+.test
 {
    font-size: 25px;
-   float: left;
+   text-align: left;
+}
+
+.image
+{
+   width: 400px;
+   height:300px;
+   border-radius: 10%;
 }
